@@ -1,9 +1,82 @@
 # B1
-A tool to spam ping scam sites
-To set up guide:
-Replace the ip with the site you want to spam ping
-to start
- start cmd
-then start b1.bat with cmd
-and repeat again and again
-5 stars- AaronRamir2
+B1 is a tool to spam ping websites.
+# To set up
+Change the ip in B1.bat to the website that you want to lag/spam ping.
+# To use
+Run B1.bat in CMD.
+and run it again and again in other CMD windows.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ur cool
